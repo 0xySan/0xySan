@@ -20,7 +20,7 @@
 
 
 # I use these
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Arch-logo.png" />
+<img align="left" alt="Arch" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Arch-logo.png" />
 
 
 <!--
