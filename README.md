@@ -1,5 +1,11 @@
-## Hi there 👋
+<hr>
 
+# 👋 Yello there Qt! Here are some cool stuff to know about me
+- i fucking love air conditioning
+- i like free software alot
+  
+#### This is my Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1015329691290320897)](https://discord.com/users/1015329691290320897)
 <!--
 **0xySan/0xySan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
