@@ -7,7 +7,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1015329691290320897)](https://discord.com/users/1015329691290320897)
 
 ## My stats
-![0xysan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xysan&layout=compact&theme=tokyonight&the=5)
+![0xysan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xysan&layout=compact&theme=tokyonight&the=4)
 
 ### I know these stuff
 <img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
