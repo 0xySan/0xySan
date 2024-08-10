@@ -2,7 +2,10 @@
 - I love Northern Countries
 - I like free software alot ( I hate private companies )
 - I use Arch btw
-  
+
+# I use these
+<img align="left" alt="Arch" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Arch-logo.png" />
+
 #### This is my Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1015329691290320897)](https://discord.com/users/1015329691290320897)
 
@@ -19,8 +22,7 @@
 <img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
 
-# I use these
-<img align="left" alt="Arch" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Arch-logo.png" />
+
 
 
 <!--
