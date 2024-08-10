@@ -1,8 +1,9 @@
 <hr>
 
-# 👋 Yello there Qt! Here are some cool stuff to know about me
-- i fucking love air conditioning
-- i like free software alot
+# Heya there friends, here are some cool facts and things abt me ! :>
+- I love Northern Countries
+- I like free software alot ( I hate private companies )
+- I use Arch btw
   
 #### This is my Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1015329691290320897)](https://discord.com/users/1015329691290320897)
