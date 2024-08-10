@@ -18,7 +18,7 @@
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-### I use these
+## I use these
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Arch-logo.png" />
 <!--
 **0xySan/0xySan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
