@@ -1,5 +1,3 @@
-<hr>
-
 # Heya there friends, here are some cool facts and things abt me ! :>
 - I love Northern Countries
 - I like free software alot ( I hate private companies )
