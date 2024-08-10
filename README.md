@@ -28,15 +28,17 @@
 
 [<img align="left" alt="LibreWolf" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/LibreWolf-logo.png" />](https://librewolf.net/)
 
-[<img align="left" alt="PokeTube" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/PokeTube-logo.png" />](https://poketube.fun/)
-
-[<img align="left" alt="Steam" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Steam-logo.png" />](https://store.steampowered.com/)
-
 [<img align="left" alt="Ungoogled Chromium" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Ungoogled-chromium-logo.png" />](https://ungoogled-software.github.io/ungoogled-chromium-binaries/)
 
 [<img align="left" alt="Vencord" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Vencord-logo.png" />](https://vencord.dev/)
 
 [<img align="left" alt="Vim" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Vim-logo.png" />](https://www.vim.org/)
+
+[<img align="left" alt="Steam" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Steam-logo.png" />](https://store.steampowered.com/)
+
+[<img align="left" alt="SteamDB" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Steamdb-logo.png" />](https://steamdb.info/)
+
+[<img align="left" alt="PokeTube" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/PokeTube-logo.png" />](https://poketube.fun/)
 
 <!--
 **0xySan/0xySan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
