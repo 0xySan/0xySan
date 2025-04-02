@@ -3,6 +3,9 @@
 - I like free software alot ( I hate private companies )
 - I use Arch btw
 
+### This is my school's intra profile
+[![etaquet's 42 stats](https://badge.mediaplus.ma/black/etaquet?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 #### This is my Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/1015329691290320897)](https://discord.com/users/1015329691290320897)
 
