@@ -1,20 +1,16 @@
-# Heya there friends, here are some cool facts and things abt me ! :>
-- I love Northern Countries
-- I like free software alot ( I hate private companies )
-- I use Arch btw
+# Wanna be Software / Gaming Dev
+Aspiring Software & Game Developer
+Currently studying at 42 Le Havre
+Mostly working with C and C++
+Learning by doing — one bug at a time.
 
-### This is my school's intra profile
-[![etaquet's 42 stats](https://badge.mediaplus.ma/black/etaquet?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-#### This is my Discord
+#### This is the discord to contact me
 [![Discord Presence](https://lanyard.cnrad.dev/api/1015329691290320897)](https://discord.com/users/1015329691290320897)
 
-## My stats
-![0xysan's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xysan&theme=monokai&show_icons=true)
-
+## Here are some stats to know which language i use the most
 ![0xysan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xysan&layout=compact&theme=monokai)
 
-### I know these stuff
+### Languages i know how to use :
 <img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="C++" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -25,7 +21,7 @@
 <img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
 
 <font size=1> </font>
-### I use these btw
+### Programs I use :
 
 
 [<img align="left" alt="Arch" width="40px" src="https://raw.githubusercontent.com/0xySan/0xySan/main/imgs/Arch-logo.png" />](https://archlinux.org/)
