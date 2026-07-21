@@ -2,7 +2,7 @@
 Aspiring Software & Game Developer
 Currently studying at 42 Le Havre
 Mostly working with C and C++
-Learning by doing — one bug at a time.
+Learning by doing - one bug at a time.
 
 #### This is the discord to contact me
 [![Discord Presence](https://lanyard.cnrad.dev/api/1015329691290320897)](https://discord.com/users/1015329691290320897)
